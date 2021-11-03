@@ -1,2 +1,1 @@
-# gintro
-git intro exercise
+Hello GIT!
